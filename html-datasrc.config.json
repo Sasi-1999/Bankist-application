@@ -1,0 +1,10 @@
+{
+  "img": [
+    "data-src",
+    "data-bp",
+    "your-custom-data-attribute"
+  ],
+  "div": [
+    "data-background-image"
+  ]
+}
